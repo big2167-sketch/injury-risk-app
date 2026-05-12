@@ -15,7 +15,7 @@ How can NFL player movement data be used to identify high-intensity movement sit
 - Interactive risk estimator
 
 ## Dataset
-The app uses NFL Big Data Bowl tracking data. A sample of the tracking data is stored in the `data` folder.
+The app uses NFL Big Data Bowl tracking data (2022). A sample of the tracking data is stored in the `data` folder.
 
 ## Methodology
 1. Remove football tracking rows
